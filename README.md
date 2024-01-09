@@ -1,4 +1,4 @@
-# Projeto: Consulta Fabricante e Modelo de Veículo com Base em Placa do Mesmo
+# Projeto: Consulta Fabricante e Modelo de Veículo com Base em Placa do Mesmo.
 
 Descrição do Projeto:
 Este projeto tem como objetivo criar uma página HTML interativa que permite aos usuários consultar informações sobre veículos por meio da inserção das placas. Utilizando HTML, CSS e JavaScript, a implementação é aprimorada pela integração de uma API que fornece dados precisos sobre o fabricante e modelo do veículo a partir da placa fornecida.
