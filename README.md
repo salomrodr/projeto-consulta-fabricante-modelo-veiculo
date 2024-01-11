@@ -5,6 +5,6 @@ Este projeto tem como objetivo criar uma página HTML interativa que permite aos
 
 Tecnologias Utilizadas: HTML, CSS, JavaScript e API.
 
-Para qualquer dúvida ou sugestão: scrisrjbr@gmail.com ou tonysdefreitas@gmail.com .
+Para qualquer dúvida ou sugestão: scrisrjbr@gmail.com ou tonysdefreitas@gmail.com
 
 Acesse em: https://salomrodr.github.io/projeto-consulta-fabricante-modelo-veiculo/
